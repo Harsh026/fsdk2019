@@ -9,7 +9,7 @@ Import PastHires.csv File.
 
 scikit-learn needs everything to be numerical for decision trees to work.
 
-So, use any technique to map Y,N to 1,0 and levels of education to some scale of 0-2.
+So, use any technique to map Y,N to 1,0 and levels of education to some scale of 0-2
 
     Build and perform Decision tree based on the predictors and see how accurate your prediction is for a being hired.
 
