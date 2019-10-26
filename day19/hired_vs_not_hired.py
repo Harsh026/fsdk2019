@@ -16,7 +16,7 @@ So, use any technique to map Y,N to 1,0 and levels of education to some scale of
 Now use a random forest of 10 decision trees to predict employment of specific candidate profiles:
 
     Predict employment of a currently employed 10-year veteran, previous employers 4, went to top-tire school, having Bachelor's Degree without Internship.
-    Predict employment of an unemployed 10-year veteran, ,previous employers 4, didn't went to any top-tire school, having Master's Degree with Internship.
+    Predict employment of an unemployed 10-year veteran, ,previous employers , didn't went to any top-tire school, having Master's Degree with Internship.
 
 
 """
